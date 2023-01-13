@@ -64,7 +64,7 @@ img {
   width: 100%;
 }
 .btn:hover {
-  background-color: #769c02;
+  background-color: #dc541a;
   cursor: pointer;
 }
 @media (min-width: 768px) {
