@@ -52,7 +52,7 @@ img {
   display: block;
 }
 .btn {
-  background-color: #8cbc00;
+  background-color: #FF6E31;
   display: block;
   color: #fff;
   text-transform: uppercase;
@@ -88,7 +88,7 @@ img {
   text-align: center;
 }
 .nombre-sitio span {
-  color: #037bc0;
+  color: #AD8E70;
 }
 .contenedor-navegacion{
   border-top: 1px solid #e1e1e1;
@@ -106,7 +106,7 @@ img {
   }
 }
 .nav-principal a:hover {
-  color: #037bc0;
+  color: #AD8E70;
   font-weight: 700;
 }
 .hero {
@@ -143,7 +143,7 @@ img {
   font-size: 20px;
 }
 .categoria a:hover {
-  background-color: #037bc0;
+  background-color: #AD8E70;
   color: #fff;
   border-bottom-right-radius: 10px;
   border-bottom-left-radius: 10px;
@@ -158,7 +158,7 @@ img {
 
 /* Bloque Nosotros */
 .sobre-nosotros {
-  background-image: linear-gradient( to bottom, transparent 50%, #037bc0 50%, #037bc0 100% ), url(../img/nosotros.jpg);
+  background-image: linear-gradient( to bottom, transparent 50%, #AD8E70 50%, #AD8E70 100% ), url(../img/nosotros.jpg);
   background-position: center, top left;
   background-repeat: no-repeat;
   background-size: 100%, 60rem;
@@ -166,7 +166,7 @@ img {
 }
 @media (min-width: 768px) {
   .sobre-nosotros {
-    background-image: linear-gradient( to right, transparent 50%, #037bc0 50%, #037bc0 100% ), url(../img/nosotros.jpg);
+    background-image: linear-gradient( to right, transparent 50%, #AD8E70 50%, #AD8E70 100% ), url(../img/nosotros.jpg);
     padding: 10rem 0;
     background-position: left center;
     background-size: 100%, 100rem;
@@ -238,7 +238,7 @@ img {
   }
 }
   .producto {
-    background-color: #037bc0;
+    background-color: #AD8E70;
     margin-bottom: 2rem;
   }
   @media (min-width: 768px) {
@@ -364,7 +364,7 @@ img {
   font-weight: 700;
 }
 .entrada-meta span {
-  color: #037bc0;
+  color: #AD8E70;
 }
 /** Contenido Entrada BLog **/
 .contenido-blog {
@@ -406,7 +406,7 @@ img {
   margin-bottom: 2rem;
 }
 .formulario legend {
-  background-color: #005485;
+  background-color: #AD8E70;
   width: 100%;
   text-align: center;
   color: #fff;
